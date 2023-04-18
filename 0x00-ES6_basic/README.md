@@ -1,17 +1,5 @@
-# 0x00. ES6 Basics
-
-### Concepts
-
-_For this project, we expect you to look at these concepts:_
-
-*   [Modern Javascript](/concepts/541)
-*   [Software Linter](/concepts/542)
-
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230417T181840Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=42545a3dd373bc099d136ec6d95c80d36f1deeb7204872ed91a1240d90931cd2)
-
+# 0x00. ES6 Basics 
 Resources
----------
-
 **Read or watch**:
 
 *   [ECMAScript 6 - ECMAScript 2015](/rltoken/NW1dFLFExQ12_hD8yvkV3A "ECMAScript 6 - ECMAScript 2015")
